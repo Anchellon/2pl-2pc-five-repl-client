@@ -1,0 +1,22 @@
+syntax="proto3";
+
+option java_package = "org.dictionary";
+option java_multiple_files= true;
+option java_outer_classname = "DictionaryProto";
+
+
+service dictionaryService{
+  rpc put(KeyValue ) returns(Status);
+  rpc get(KeyValue) returns(Status) ;
+  rpc delete(KeyValue) returns(Status);
+}
+message KeyValue{
+  string key = 1;
+  string value = 2;
+}
+message Status{
+  string status = 1;
+  string message = 2;
+  string key =3;
+  string value = 4;
+}
