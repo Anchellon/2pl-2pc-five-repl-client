@@ -1,0 +1,40 @@
+Nov 27, 2023 4:53:23 PM org.dictionary.ClientGRPC5 main
+INFO: Pre-populating the db store
+Nov 27, 2023 4:54:44 PM org.dictionary.ClientGRPC5 main
+INFO: Pre-populating the db store
+Nov 28, 2023 4:27:24 PM org.dictionary.ClientGRPC5 main
+INFO: Pre-populating the db store
+Nov 28, 2023 4:35:37 PM org.dictionary.ClientGRPC5 main
+INFO: Pre-populating the db store
+Nov 28, 2023 4:35:51 PM org.dictionary.ClientGRPC5 main
+INFO: DEL option Has been selected
+Nov 28, 2023 4:35:58 PM org.dictionary.ClientGRPC5 main
+INFO: User requested to continue or not.
+Nov 28, 2023 4:41:09 PM org.dictionary.ClientGRPC5 main
+INFO: Pre-populating the db store
+Nov 28, 2023 4:41:17 PM org.dictionary.ClientGRPC5 main
+INFO: DEL option Has been selected
+Nov 28, 2023 4:41:20 PM org.dictionary.ClientGRPC5 main
+INFO: User requested to continue or not.
+Nov 28, 2023 4:42:31 PM org.dictionary.ClientGRPC5 main
+INFO: Pre-populating the db store
+Nov 28, 2023 4:42:35 PM org.dictionary.ClientGRPC5 main
+INFO: DEL option Has been selected
+Nov 28, 2023 4:42:37 PM org.dictionary.ClientGRPC5 main
+INFO: User requested to continue or not.
+Nov 28, 2023 4:42:39 PM org.dictionary.ClientGRPC5 main
+INFO: User chooses
+Nov 28, 2023 4:42:44 PM org.dictionary.ClientGRPC5 main
+INFO: GET option Has been selected
+Nov 28, 2023 4:42:46 PM org.dictionary.ClientGRPC5 main
+INFO: Queried Key:meen not present
+Nov 28, 2023 4:42:46 PM org.dictionary.ClientGRPC5 main
+INFO: User requested to continue or not.
+Nov 28, 2023 4:42:55 PM org.dictionary.ClientGRPC5 main
+INFO: User chooses
+Nov 28, 2023 4:42:56 PM org.dictionary.ClientGRPC5 main
+INFO: Invalid Operation Entered
+Nov 28, 2023 4:42:56 PM org.dictionary.ClientGRPC5 main
+INFO: Queried Key:meen not present
+Nov 28, 2023 4:42:56 PM org.dictionary.ClientGRPC5 main
+INFO: User requested to continue or not.
